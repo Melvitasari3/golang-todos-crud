@@ -1,9 +1,9 @@
 package router
 
 import (
-	"github.com/arfan21/golang-todos-crud/controller"
-	"github.com/arfan21/golang-todos-crud/database"
-	_ "github.com/arfan21/golang-todos-crud/docs"
+	"github.com/Melvitasari3/golang-todos-crud/controller"
+	"github.com/Melvitasari3/golang-todos-crud/database"
+	_ "github.com/Melvitasari3/golang-todos-crud/docs"
 	"github.com/gorilla/mux"
 	httpSwagger "github.com/swaggo/http-swagger"
 )

@@ -8,9 +8,9 @@ import (
 
 	"github.com/gorilla/mux"
 
-	"github.com/arfan21/golang-todos-crud/database"
-	"github.com/arfan21/golang-todos-crud/helper"
-	"github.com/arfan21/golang-todos-crud/model"
+	"github.com/Melvitasari3/golang-todos-crud/database"
+	"github.com/Melvitasari3/golang-todos-crud/helper"
+	"github.com/Melvitasari3/golang-todos-crud/model"
 )
 
 type Controller struct {
