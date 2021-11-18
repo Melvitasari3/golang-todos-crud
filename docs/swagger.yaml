@@ -23,7 +23,7 @@ definitions:
         example: Todos API
         type: string
     type: object
-host: http://localhost:8000
+host: localhost:8000
 info:
   contact: {}
   description: This is API for completing final project 1 hacktiv8
